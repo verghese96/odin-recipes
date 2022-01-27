@@ -1,0 +1,17 @@
+.header{
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+}
+.header.first{
+    font-size: 40px;
+}
+.header.third,
+.header.second{
+    font-size: 28px;
+}
+
+.link{
+    font-family: Impact,'Arial Narrow Bold', sans-serif;
+    color: rgb(3, 190, 43);
+}
+
